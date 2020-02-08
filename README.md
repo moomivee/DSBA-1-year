@@ -1,4 +1,3 @@
-# DSBA 1-year - Coding
 # Here you can find realisations C++:
 
 Algorithms:
